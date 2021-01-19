@@ -1,0 +1,3 @@
+# run playbook command
+ansible-playbook docker.yml --user hjalti -i inventory.ini --ask-become-pass
+
